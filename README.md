@@ -6,6 +6,6 @@ It uses sound sensor to recognize knocking sound and interval between knock to i
 V1 contains predefined pattern. V2 allows customizable pattern.
 
 ## Files
-`/doorLock`- contains the code files. 
-`/v1_circuit`- version 1 circuit diagram
-`/v2_circuit`- version 2 circuit diagram
+- `/doorLock`- contains the code files. 
+- `/v1_circuit`- version 1 circuit diagram
+- `/v2_circuit`- version 2 circuit diagram
